@@ -42,9 +42,12 @@ nav a{
 /* header releted stlyle */
 .header{
     background-color: #FFF8F3;
+    background-image:url('../images/19deb64db6ae94c9e96c6b7854a2f46e.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .banner{
-    padding: 30px 30px 30px 150px;
+    padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
 }
@@ -52,5 +55,25 @@ nav a{
     width: 600px;
     height: 300px;
     padding:30px 30px 30px 350px;
+}
+/* main section */
+/* about */
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0;
+}
+.section-title{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+.section-description{
+    color: #FD6E0A;
+    text-align: center;
+    font-size: 18px;
+
 }
 
