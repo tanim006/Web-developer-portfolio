@@ -88,4 +88,8 @@ main{
 .about-info{
     text-align: center;
 }
+.skill-comtainer{
+    display: flex;
+    justify-content: space-between;
+}
 
