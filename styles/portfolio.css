@@ -71,14 +71,21 @@ nav a{
     font-weight: 700;
 }
 .section-description{
-    color: #FD6E0A;
+    color: black;
     text-align: center;
     font-size: 18px;
 
 }
 main{
     max-width: 1140px;
-    margin:auto;
+    margin: 0 auto;
 
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-between;
+}
+.about-info{
+    text-align: center;
 }
 
