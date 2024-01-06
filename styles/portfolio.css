@@ -76,4 +76,9 @@ nav a{
     font-size: 18px;
 
 }
+main{
+    max-width: 1140px;
+    margin:auto;
+
+}
 
